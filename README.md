@@ -1,4 +1,4 @@
-It’s a plug-and-play generative text machine
+a plug-and-play generative text machine
 
 It uses a corpus of social-media texts posted by Donald J. Trump
 between 2015–2017 and 2024–2025.
